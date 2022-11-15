@@ -2,7 +2,7 @@
 
 ระบบวัดระดับหรือระยะทาง เพื่อการแจ้งเตือน หรือควบคุมสั่งการอัตโนมัติ พร้อม Web Monitoring & WiFi management สำหรับ New Micromation Dev Board V.2 Lite with ESP32 ใช้ในการแสดงผลค่าต่างที่วัดได้ และการตั้งค่าต่างๆ ผ่านเว็บบราวเซอร์ 
 
-![RS485 Rangefinder](https://github.com/imiconsystem/ready2u-rs485-tem-humi/blob/ceb66e98a28e992e84ce243050311125ebc9b003/images/cover.JPG)
+![RS485 Rangefinder](https://github.com/imiconsystem/ready2u-rs485-rangefinder/blob/7e3c03db13f4e30c8cca96f3dfb4ea2eb16b7b6c/images/cover.JPG)
 
 
 ## ฟีเจอร์การแสดงผลและสั่งงาน
@@ -29,7 +29,7 @@
 
 ใช้ Micromation – Lite with RS-485 Module ต่อใช้งานร่วมกับ BGT-WSD2 เซ็นเซอร์อุณหภูมิและความชื้นอากาศ ผ่าน RTU / RS-485 ด้วยโปรโตคอล Modbus Protocol โดยใช้คอนโทรลเลอร์ ESP32 Dev Kit V1
 
-![RS485 Rangefinder](https://github.com/imiconsystem/ready2u-rs485-tem-humi/blob/main/images/4.jpg)
+![RS485 Rangefinder](https://github.com/imiconsystem/ready2u-rs485-rangefinder/blob/7e3c03db13f4e30c8cca96f3dfb4ea2eb16b7b6c/images/wiring.jpg)
 
 ** โปรดระมัดระวัง! อย่าต่อแหล่งจ่ายไฟ Power in และ usb ในเวลาเดียวกัน เพราะจะส่งผลให้บอร์ดได้รับความเสียหาย ในบางครั้งอาจรวมไปถึงคอมพิวเตอร์
 
