@@ -2,7 +2,7 @@
 
 ระบบวัดระดับหรือระยะทาง เพื่อการแจ้งเตือน หรือควบคุมสั่งการอัตโนมัติ พร้อม Web Monitoring & WiFi management สำหรับ New Micromation Dev Board V.2 Lite with ESP32 ใช้ในการแสดงผลค่าต่างที่วัดได้ และการตั้งค่าต่างๆ ผ่านเว็บบราวเซอร์ 
 
-![RS485 Rangefinder](https://github.com/imiconsystem/ready2u-rs485-rangefinder/blob/7e3c03db13f4e30c8cca96f3dfb4ea2eb16b7b6c/images/cover.JPG)
+![RS485 Rangefinder](https://github.com/imiconsystem/ready2u-rs485-rangefinder/blob/75ad3288467cf4c6aa060f1a57e34df2e91bbf7c/images/cover.JPG)
 
 
 ## ฟีเจอร์การแสดงผลและสั่งงาน
