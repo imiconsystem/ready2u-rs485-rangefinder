@@ -29,7 +29,7 @@
 
 ใช้ Micromation – Lite with RS-485 Module ต่อใช้งานร่วมกับ BGT-WSD2 เซ็นเซอร์อุณหภูมิและความชื้นอากาศ ผ่าน RTU / RS-485 ด้วยโปรโตคอล Modbus Protocol โดยใช้คอนโทรลเลอร์ ESP32 Dev Kit V1
 
-![RS485 Rangefinder](https://github.com/imiconsystem/ready2u-rs485-rangefinder/blob/7e3c03db13f4e30c8cca96f3dfb4ea2eb16b7b6c/images/wiring.jpg)
+![RS485 Rangefinder](https://github.com/imiconsystem/ready2u-rs485-rangefinder/blob/main/images/wiring.jpg)
 
 ** โปรดระมัดระวัง! อย่าต่อแหล่งจ่ายไฟ Power in และ usb ในเวลาเดียวกัน เพราะจะส่งผลให้บอร์ดได้รับความเสียหาย ในบางครั้งอาจรวมไปถึงคอมพิวเตอร์
 
