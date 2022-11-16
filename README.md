@@ -43,12 +43,13 @@
 1. ezButton by ArduinoGetStarted.com Version 1.0.4 https://arduinogetstarted.com/tutorials/arduino-button-library
 
 ## Flash โปรแกรมลง ESP32
-1. เข้าเมนู Tools เลือกบอร์ด DOIT ESP32 DEVKIT V1
-2. เลือกพอร์ต
-3. ดาวน์โหลดโค๊ดโปรแกรม https://github.com/imiconsystem/ready2u-rs485-tem-humi/releases
-4. เปิดไฟล์ ready2u-rs485-tem-humi.ino
-5. อัพโหลดไฟล์
-6. กดปุ่ม EN บน Esp32 เพื่อเริ่มต้นระบบ
+1. เปิดโปรแกรม Arduino IDE
+2. เข้าเมนู Tools เลือกบอร์ด DOIT ESP32 DEVKIT V1
+3. เลือกพอร์ต
+4. ดาวน์โหลดโค๊ดโปรแกรม https://github.com/imiconsystem/ready2u-rs485-rangefinder/releases
+5. เปิดไฟล์ ready2u-rs485-rangefinder.ino
+6. อัพโหลดไฟล์
+7. กดปุ่ม En บน Esp32 เพื่อเริ่มต้นใช้งาน
 
 
 ## การใช้งานตั้งค่า 'SET MODE' 
